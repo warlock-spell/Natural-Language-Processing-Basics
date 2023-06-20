@@ -69,6 +69,7 @@ target/
 
 # IPython Notebook
 .ipynb_checkpoints
+**/.ipynb_checkpoints/
 
 # pyenv
 .python-version
@@ -103,3 +104,5 @@ pip-selfcheck.json
 .idea/
 venv/
 #data/
+
+**/**/__pycache__/
